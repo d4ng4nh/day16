@@ -17,7 +17,7 @@ Reframed as a product opportunity:
 - **Segment name:** Người trẻ (Gen Z & Millennials, 16-28 tuổi) mới tập gym dưới 3 tháng, bao gồm học sinh, sinh viên và nhân viên văn phòng có ngân sách hạn hẹp.
 - **Operational context:** Tự tập luyện một mình tại các phòng gym bình dân (gym cỏ) hoặc gym sinh viên. Bị ảnh hưởng mạnh bởi các trào lưu Fitness trên TikTok/YouTube. Thường mang các tật sai tư thế (gù lưng, cổ rùa) do thói quen ngồi học và bấm điện thoại/máy tính kéo dài.
 - **Recurring workflow:** Lướt xem clip hướng dẫn trên TikTok/Reels -> Ra phòng gym bắt chước lại -> Bối rối trước gương vì thấy mình tập không giống idol -> Ngại ngùng lướt điện thoại giữa hiệp để xem lại clip -> Tập tiếp với tâm lý hoang mang, sợ bị người xung quanh đánh giá.
-- **Pain moment:** Cảm thấy xấu hổ, "quê độ" khi loay hoay với một cái máy tập hoặc mức tạ nhẹ; hoặc cảm thấy chán nản, đau mỏi thắt lưng/khớp do tập sai form trong thời gian dài mà không ai chỉ bảo.
+- **Pain moment:** Cảm thấy xấu hổ, "quê" khi loay hoay với một cái máy tập hoặc mức tạ nhẹ; hoặc cảm thấy chán nản, đau mỏi thắt lưng/khớp do tập sai form trong thời gian dài mà không ai chỉ bảo.
 - **Why now:** Gen Z đang cực kỳ quan tâm đến "wellness" và ngoại hình, thúc đẩy làn sóng người trẻ đến phòng gym. Đồng thời, công nghệ AI Computer Vision trên camera smartphone hiện nay đã đủ mạnh để xử lý chuyển động theo thời gian thực (real-time) mà không cần thiết bị đeo đắt tiền.
 - **Access path:** TikTok fitness trends (#GymTok, #GlowUp), các group Facebook "Hội sinh viên tập gym", "Hội những người mới tập gym", Word-of-mouth (bạn bè rủ nhau đi tập).
 
